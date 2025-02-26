@@ -1,5 +1,5 @@
 {
-  "homepage": "http://jrussel05.github.io/todo-list-react-tailwindcss",
+  "homepage": "https://jrussel05.github.io/todo-list-react-tailwindcss",
   "name": "praktis",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
